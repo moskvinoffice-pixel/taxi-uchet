@@ -1,0 +1,1 @@
+pluginManagement, google, mavenCentral, gradlePluginPortal, dependencyResolutionManagement, repositories с google и mavenCentral, rootProject name "TaxiUchet", include(":app")
